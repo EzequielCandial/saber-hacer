@@ -1,0 +1,24 @@
+// Variables 
+$font-main: Arial, sans-serif;
+$text-color: #212529;
+$background-color: #f8f9fa;
+$primary-color: #0d6efd;
+
+// Estilos base
+body {
+  font-family: $font-main;
+  color: $text-color;
+  background-color: $background-color;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5 {
+  color: $primary-color;
+  font-weight: 500; // 
+}
+
+h1 {
+  font-weight: 300; 
+}
+
+  
